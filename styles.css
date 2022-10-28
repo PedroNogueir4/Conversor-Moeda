@@ -10,7 +10,9 @@ body {
 
 
 }
-
+button:hover{
+    opacity: 0,5;
+}
 main {
     background-color: #E5E5E5;
     padding: 24px;
@@ -92,6 +94,3 @@ button {
     color: #1B83E2;
 }
 
-button:hover{
-    opacity: 0,9;
-}
