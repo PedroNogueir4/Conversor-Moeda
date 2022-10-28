@@ -7,12 +7,8 @@
 
 body {
     width: 375px;
-
-
 }
-button:hover{
-    opacity: 0,5;
-}
+
 main {
     background-color: #E5E5E5;
     padding: 24px;
@@ -74,6 +70,10 @@ button {
     margin-bottom: 24px;
     cursor: pointer;
     
+}
+ 
+button:hover{
+    opacity: 0,5;
 }
 
 .conteiner2 {
