@@ -3,9 +3,9 @@ const button = document.getElementById('button-convert')
 const dolar = 5
 const convertValues= () =>{
 
-    const inputReal = document.getElementsById('value-input').value
+    const inputReal = document.getElementById('value-input').value
 
-console.log(parseInt(inputReal) / dolar)
+console.log(inputReal / dolar)
 
 }
 
